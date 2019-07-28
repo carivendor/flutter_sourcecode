@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "595395575125",
+    "firebase_url": "https://tranquil-apogee-127317.firebaseio.com",
+    "project_id": "tranquil-apogee-127317",
+    "storage_bucket": "tranquil-apogee-127317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595395575125:android:9cd0de371429d8fb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595395575125-ov145oh3neqqrk7qns6tjhrq6qbblet5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWKZXLfR-bO1rpULMRFsDfLFb4bIu41s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595395575125-ov145oh3neqqrk7qns6tjhrq6qbblet5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
