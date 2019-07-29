@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../provider/data.dart';
+import '../provider/dataOnboarding.dart';
 import '../widgets/page_indicator_Onboarding.dart';
 import 'package:gradient_text/gradient_text.dart';
 
