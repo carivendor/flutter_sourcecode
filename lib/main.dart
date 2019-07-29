@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_onboarding/pages/AuthPages.dart';
+import 'package:flutter_onboarding/pages/TypeVendorForm.dart';
 import 'package:flutter_onboarding/provider/auth.dart';
 
 import 'package:provider/provider.dart';
-// import 'package:flutter_onboarding/pages/onboarding.dart';
+import 'package:flutter_onboarding/pages/onboarding.dart';
 
 
 void main() => runApp(MyApp());
@@ -33,7 +34,8 @@ class MyApp extends StatelessWidget {
           //   accentColor: Colors.deepOrange,
           //   fontFamily: 'Lato',
           // ),
-          home: AuthScreen(),
+        home : AuthScreen(),
+          // home: AuthScreen(),
           routes: {
             // ProductDetailScreen.routeName: (ctx) => ProductDetailScreen(),
             // CartScreen.routeName: (ctx) => CartScreen(),
